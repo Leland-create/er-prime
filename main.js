@@ -1,4 +1,4 @@
-import isPrime from "is-prime";
+import isPrime from "isprime";
 
 const input = document.getElementById("numberInput");
 const button = document.getElementById("checkButton");
